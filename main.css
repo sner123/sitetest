@@ -1,5 +1,12 @@
+body {
+  font-family: arial;
+}
 .versie {
   position: absolute;
   left: 2px;
   bottom: 2px;
+}
+
+.watbanaan {
+  color: blue;
 }
